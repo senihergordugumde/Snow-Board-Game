@@ -1,0 +1,243 @@
+Unity Editor version:    2021.3.8f1 (b30333d56e81)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.5.1 (Build 21G83)
+Darwin version:          21.6.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker125
+-projectPath
+/Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board
+-logFile
+Logs/AssetImportWorker125.log
+-srvPort
+52699
+Successfully changed project path to: /Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board
+/Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     40926 2091ee600 -
+     41039 208660600 -
+     41041 20a6f4600 -
+     41056 20a5c5600 -
+     41054 208ad5600 -
+     41069 206f27600 -
+     41071 20b0f2600 -
+     41089 2093b9600 -
+     41091 206a46600 -
+     41106 20951c600 -
+     41104 20862f600 -
+     41120 206815600 -
+     41118 2067c8600 -
+     41128 20729d600 -
+     41130 20acba600 -
+     41143 20689d600 -
+     41141 206b9f600 -
+     41154 20aad9600 -
+     41156 206545600 -
+     41164 20ad20600 -
+     41166 209227600 -
+     41195 208cbf600 -
+     41197 206c13600 -
+     41205 20a80d600 -
+     41207 20a57f600 -
+     41223 209162600 -
+     41221 208874600 -
+     41237 20a46a600 -
+     41239 20af31600 -
+     41250 20b0d9600 -
+     41252 20a735600 -
+     41267 20862d600 -
+     41269 2073e5600 -
+     41286 208d75600 -
+     41284 206ce3600 -
+     41301 20ad72600 -
+     41299 208d5e600 -
+     41313 208e2b600 -
+     41311 20b0dd600 -
+     41324 20aae2600 -
+     41322 20745d600 -
+     41332 20853e600 -
+     41334 2072b7600 -
+     41343 206983600 -
+     41345 2091d6600 -
+     41357 206765600 -
+     41355 20a912600 -
+     41374 206b40600 -
+     41376 207112600 -
+     41391 20a278600 -
+     41389 206e1d600 -
+     41404 20b1fc600 -
+     41406 20a424600 -
+     41422 208e0f600 -
+     41420 2072fc600 -
+     41436 20a79c600 -
+     41434 20a470600 -
+     41450 20adeb600 -
+     41448 20665a600 -
+     41461 206acf600 -
+     41459 20a9d7600 -
+     41490 208625600 -
+     41492 20ac2f600 7696
+     41510 206e28600 -
+     41512 20b0d2600 -
+     41527 20926c600 -
+     41529 206c91600 -
+     41540 2068b5600 -
+     41542 20644c600 -
+     41556 2066fa600 -
+     41558 20af56600 -
+     41566 20afec600 -
+     41568 2067d8600 -
+     41584 2070d6600 -
+     41586 2086ca600 -
+     41600 2065de600 -
+     41602 2093ba600 -
+     41619 2067bd600 -
+     41617 206fd8600 -
+     41631 208547600 -
+     41633 20ac05600 -
+     41650 206dee600 -
+     41648 208a2d600 -
+     41663 2071fb600 -
+     41665 20ab3d600 -
+     41677 208b2c600 -
+     41675 208261600 -
+     41689 2090d8600 -
+     41687 20a771600 -
+     41700 209102600 -
+     41698 206d0f600 -
+     41720 20a5fe600 -
+     41718 208922600 -
+     41730 206f96600 -
+     41732 20ac93600 -
+     41743 20b596600 -
+     41741 20894c600 -
+     41781 20b26b600 -
+     41779 208cf7600 -
+     41789 20a796600 -
+     41791 208c7a600 -
+     41801 20ab2d600 -
+     41799 20a9d2600 -
+     41812 20a89b600 -
+     41810 2073e0600 -
+     41822 206cb6600 -
+     41820 20b3d9600 -
+     41850 20837c600 -
+     41852 208b71600 -
+     41863 206b42600 -
+     41861 2090e2600 -
+     41875 2085fc600 -
+     41873 209095600 -
+     41890 20b16c600 -
+     41888 206fcb600 -
+     41898 20b34f600 -
+     41900 207148600 -
+     41910 208bcb600 -
+     41908 20acd8600 -
+     41918 20aa65600 -
+     41920 20a59e600 -
+     41928 20ae6b600 -
+     41930 206487600 -
+     41941 20a717600 -
+     41943 206e94600 -
+     41952 208ad0600 7760
+Cleaned out 124 stale readers
+Refreshing native plugins compatible for Editor in 494.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.8f1 (b30333d56e81)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M2 (high power)
+Metal devices available: 1
+0: Apple M2 (high power)
+Using device Apple M2 (high power)
+Initializing Metal device caps: Apple M2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56954
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000538 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 88.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.249 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1250ms)
+		BeginReloadAssembly (139ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (932ms)
+			LoadAssemblies (138ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (86ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (693ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (88ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (424ms)
+				ProcessInitializeOnLoadMethodAttributes (156ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.324424 seconds.
