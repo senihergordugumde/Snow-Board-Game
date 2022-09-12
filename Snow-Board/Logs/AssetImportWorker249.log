@@ -1,0 +1,372 @@
+Unity Editor version:    2021.3.8f1 (b30333d56e81)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.5.1 (Build 21G83)
+Darwin version:          21.6.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker249
+-projectPath
+/Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board
+-logFile
+Logs/AssetImportWorker249.log
+-srvPort
+52767
+Successfully changed project path to: /Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board
+/Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     25631 206b5c600 -
+     26537 208d01600 -
+     25631 30d7d9000 -
+     26539 209129600 -
+     26545 20a9c0600 -
+     26543 2072c5600 -
+     26550 206edf600 -
+     26548 2084c3600 -
+     26554 206e1c600 -
+     26552 2087a1600 -
+     26565 20a952600 -
+     26563 2091e0600 -
+     26571 20ad6a600 -
+     26569 20915d600 -
+     26574 207037600 -
+     26576 206b40600 -
+     26580 20897a600 -
+     26578 20b0c3600 -
+     26584 20ab9b600 -
+     26586 206ea3600 -
+     26588 20ac29600 -
+     26590 208d8d600 -
+     26592 208c0e600 -
+     26594 2094b0600 -
+     26596 20abc6600 -
+     26598 2072e3600 -
+     26602 20a597600 -
+     26604 208781600 -
+     26606 20a623600 -
+     26608 20b1c1600 -
+     26611 206bdf600 -
+     26613 208924600 -
+     26617 20a47a600 -
+     26619 206a36600 -
+     26623 208c53600 -
+     26621 206e73600 -
+     26625 207034600 -
+     26627 20671c600 -
+     26629 207136600 -
+     26631 208cb5600 -
+     26645 20698b600 -
+     26643 20afbe600 -
+     26660 206888600 -
+     26658 20a601600 -
+     26672 206dc7600 -
+     26670 20a8a4600 -
+     26690 206c96600 -
+     26692 2069c0600 -
+     26697 207141600 -
+     26695 206638600 -
+     26699 2086e6600 -
+     26701 2071f8600 -
+     26705 208b49600 -
+     26703 20912f600 -
+     26709 20685b600 -
+     26707 206c60600 -
+     26713 20a5f5600 -
+     26711 20b04b600 -
+     26717 20ad09600 -
+     26715 20a66e600 -
+     26719 207313600 -
+     26721 2093fe600 -
+     26723 20a60d600 -
+     26725 209355600 -
+     26729 20adcb600 -
+     26727 20a70f600 -
+     26731 20a8ac600 -
+     26733 20653d600 -
+     26738 20704f600 -
+     26736 206677600 -
+     26742 206a5f600 -
+     26740 20b55b600 -
+     26757 20acc5600 -
+     26759 20ac72600 -
+     26763 2069f0600 -
+     26761 208881600 -
+     26768 206853600 -
+     26766 208b82600 -
+     26772 2062cd600 -
+     26774 20ab85600 -
+     26776 20aa29600 -
+     26778 206e7f600 -
+     26783 20adf6600 -
+     26781 2067b6600 -
+     26785 208c33600 -
+     26787 20a4b3600 -
+     26791 20904c600 -
+     26789 20670c600 -
+     26795 206f16600 -
+     26793 208bf4600 -
+     26810 2073a7600 -
+     26808 20a65e600 -
+     26834 2072b1600 -
+     26832 20afe4600 -
+     26870 20b359600 -
+     26872 20a996600 -
+     26895 206cc9600 -
+     26893 20afdf600 -
+     26908 2088a0600 -
+     26910 20b152600 -
+     26921 206407600 -
+     26923 20aad4600 -
+     26926 208807600 -
+     26928 2090e3600 -
+     26935 20926c600 -
+     26933 20a876600 -
+     26938 2070b3600 -
+     26940 20aa13600 -
+     26944 207159600 -
+     26942 2071ab600 -
+     26948 2090f3600 -
+     26950 20a6cb600 -
+     26963 20ae16600 -
+     26965 20ae2a600 -
+     26970 208465600 -
+     26968 20aa74600 -
+     26972 2065e7600 -
+     26974 20a7fb600 -
+     26977 20ad36600 -
+     26979 209027600 -
+     26983 20a6de600 -
+     26981 20aa65600 -
+     26987 209228600 -
+     26985 20929b600 -
+     26989 208b1e600 -
+     26991 206b72600 -
+Cleaned out 124 stale readers
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     25631 206b5c600 -
+     26539 209129600 -
+     26545 20a9c0600 -
+     26543 2072c5600 -
+     26548 2084c3600 -
+     26550 206edf600 -
+     26552 2087a1600 -
+     26554 206e1c600 -
+     26563 2091e0600 -
+     26565 20a952600 -
+     26571 20ad6a600 -
+     26569 20915d600 -
+     26574 207037600 -
+     26576 206b40600 -
+     26580 20897a600 -
+     26578 20b0c3600 -
+     26586 206ea3600 -
+     26584 20ab9b600 -
+     26590 208d8d600 -
+     26588 20ac29600 -
+     26594 2094b0600 -
+     26592 208c0e600 -
+     26596 20abc6600 -
+     26598 2072e3600 -
+     26604 208781600 -
+     26602 20a597600 -
+     26608 20b1c1600 -
+     26606 20a623600 -
+     26611 206bdf600 -
+     26613 208924600 -
+     26617 20a47a600 -
+     26619 206a36600 -
+     26623 208c53600 -
+     26621 206e73600 -
+     26627 20671c600 -
+     26625 207034600 -
+     26629 207136600 -
+     26631 208cb5600 -
+     26643 20afbe600 -
+     26645 20698b600 -
+     26658 20a601600 -
+     26660 206888600 -
+     26672 206dc7600 -
+     26670 20a8a4600 -
+     26692 2069c0600 -
+     26690 206c96600 -
+     26697 207141600 -
+     26695 206638600 -
+     26699 2086e6600 -
+     26701 2071f8600 -
+     26705 208b49600 -
+     26703 20912f600 -
+     26709 20685b600 -
+     26707 206c60600 -
+     26711 20b04b600 -
+     26713 20a5f5600 -
+     26715 20a66e600 -
+     26717 20ad09600 -
+     26719 207313600 -
+     26721 2093fe600 -
+     26723 20a60d600 -
+     26725 209355600 -
+     26729 20adcb600 -
+     26727 20a70f600 -
+     26731 20a8ac600 -
+     26733 20653d600 -
+     26738 20704f600 -
+     26736 206677600 -
+     26740 20b55b600 -
+     26742 206a5f600 -
+     26757 20acc5600 -
+     26759 20ac72600 -
+     26761 208881600 -
+     26763 2069f0600 -
+     26766 208b82600 -
+     26768 206853600 -
+     26772 2062cd600 -
+     26774 20ab85600 -
+     26778 206e7f600 -
+     26776 20aa29600 -
+     26781 2067b6600 -
+     26783 20adf6600 -
+     26787 20a4b3600 -
+     26785 208c33600 -
+     26789 20670c600 -
+     26791 20904c600 -
+     26793 208bf4600 -
+     26795 206f16600 -
+     26810 2073a7600 -
+     26808 20a65e600 -
+     26834 2072b1600 -
+     26832 20afe4600 -
+     26872 20a996600 -
+     26870 20b359600 -
+     26895 206cc9600 -
+     26893 20afdf600 -
+     26908 2088a0600 -
+     26910 20b152600 -
+     26923 20aad4600 -
+     26921 206407600 -
+     26926 208807600 -
+     26928 2090e3600 -
+     26933 20a876600 -
+     26935 20926c600 -
+     26940 20aa13600 -
+     26938 2070b3600 -
+     26942 2071ab600 -
+     26944 207159600 -
+     26948 2090f3600 -
+     26950 20a6cb600 -
+     26965 20ae2a600 -
+     26963 20ae16600 -
+     26968 20aa74600 -
+     26970 208465600 -
+     26974 20a7fb600 -
+     26972 2065e7600 -
+     26979 209027600 -
+     26977 20ad36600 -
+     26981 20aa65600 -
+     26983 20a6de600 -
+     26985 20929b600 -
+     26987 209228600 -
+     26991 206b72600 -
+     26989 208b1e600 -
+     26993 208616600 8572
+     26537 208d01600 -
+Cleaned out 124 stale readers
+Refreshing native plugins compatible for Editor in 430.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.8f1 (b30333d56e81)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M2 (high power)
+Metal devices available: 1
+0: Apple M2 (high power)
+Using device Apple M2 (high power)
+Initializing Metal device caps: Apple M2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56995
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002103 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 87.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.257 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1258ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (931ms)
+			LoadAssemblies (135ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (89ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (688ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (87ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (415ms)
+				ProcessInitializeOnLoadMethodAttributes (161ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.335205 seconds.
