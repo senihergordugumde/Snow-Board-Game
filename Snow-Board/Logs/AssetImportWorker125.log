@@ -22,7 +22,7 @@ AssetImportWorker125
 -logFile
 Logs/AssetImportWorker125.log
 -srvPort
-52767
+54816
 Successfully changed project path to: /Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board
 /Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -56,263 +56,134 @@ Successfully changed project path to: /Volumes/X-FILES/GitHub/Snow-Board-Game/Sn
     "memorysetup-temp-allocator-size-gfx=262144"
 mdb reader table full -> cleaning up stale readers. Current readers:
     pid     thread     txnid
-     25631 206b5c600 -
-     25846 2062fc600 -
-     25631 30d7d9000 -
-     25665 20ac51600 -
-     25667 208856600 -
-     25695 20a51f600 -
-     25693 20b31a600 -
-     25701 206990600 -
-     25703 2069da600 -
-     25711 208fe6600 -
-     25713 20853b600 -
-     25719 20ac4e600 -
-     25721 20ac55600 -
-     25728 206933600 -
-     25726 208d23600 -
-     25730 206c6c600 -
-     25732 206fc9600 -
-     25734 206591600 -
-     25736 20b380600 -
-     25739 208e79600 -
-     25741 206614600 -
-     25745 20a78a600 -
-     25747 208514600 -
-     25749 208720600 -
-     25751 208f06600 -
-     25753 208eeb600 -
-     25755 2065a1600 -
-     25765 206861600 -
-     25763 20ab45600 -
-     25844 208638600 -
-     25867 2092f9600 -
-     25869 20898a600 -
-     25880 208da2600 -
-     25882 20833f600 -
-     25884 2074d3600 -
-     25886 20ad50600 -
-     25892 20ab99600 -
-     25890 2062bb600 -
-     25897 20a5f7600 -
-     25895 20a8c6600 -
-     25920 20a47c600 -
-     25922 206a94600 -
-     25950 2093ea600 -
-     25952 208ed8600 -
-     25979 206fcb600 -
-     25977 20913f600 -
-     26024 20aeb9600 -
-     26022 207225600 -
-     26071 20aa09600 -
-     26069 20918c600 -
-     26100 2092eb600 -
-     26098 20675c600 -
-     26110 2092fe600 -
-     26108 20900d600 -
-     26147 2087b4600 -
-     26149 2088fe600 -
-     26153 2065db600 -
-     26151 20a29c600 -
-     26157 208bb6600 -
-     26159 208eb9600 -
-     26166 20b0b2600 -
-     26168 206ed8600 -
-     26174 20af5b600 -
-     26176 20af06600 -
-     26198 2083d4600 -
-     26196 20aec8600 -
-     26217 2062d1600 -
-     26219 20ab4f600 -
-     26236 208e3b600 -
-     26234 2069ca600 -
-     26269 20a3c7600 -
-     26267 206824600 -
-     26282 208b8c600 -
-     26280 20a8b4600 -
-     26299 2069f1600 -
-     26297 206a81600 -
-     26316 206e97600 -
-     26318 206631600 -
-     26325 208616600 -
-     26323 2066b5600 -
-     26360 2064bd600 -
-     26358 20ab37600 -
-     26384 206fed600 -
-     26382 208cf3600 -
-     26390 20b3cb600 -
-     26392 20a5df600 -
-     26406 208d7b600 -
-     26404 20aa39600 -
-     26409 20a6ad600 -
-     26411 209454600 -
-     26413 2071e1600 -
-     26415 20a635600 -
-     26417 208cce600 -
-     26419 20aaeb600 -
-     26424 206798600 -
-     26422 208c89600 -
-     26426 208e0b600 -
-     26428 206e43600 -
-     26432 206c5e600 -
-     26430 20911d600 -
-     26438 208809600 -
-     26436 207381600 -
-     26440 206b25600 -
-     26442 2066f6600 -
-     26448 20859d600 -
-     26450 20a5a7600 -
-     26455 20b50d600 -
-     26457 208fe1600 -
-     26461 206920600 -
-     26459 208a40600 -
-     26480 209103600 -
-     26482 206ad6600 -
-     26485 2084c5600 -
-     26487 20a643600 -
-     26492 208970600 -
-     26490 208ee0600 -
-     26496 208dbe600 -
-     26498 207017600 -
-     26502 208c44600 -
-     26504 208fc6600 -
-     26509 20888b600 -
-     26511 2093fe600 -
-     26521 2064c9600 -
-     26523 20a698600 -
-     26529 208e80600 -
-     26527 2072b8600 -
+     31650 20aaf4600 -
+     31721 20b180600 -
+     31650 3159e5000 -
+     31694 20662d600 -
+     31692 20b1a2600 -
+     31702 20a463600 -
+     31700 208c67600 -
+     31708 2068a8600 -
+     31706 208cd0600 -
+     31713 20b06b600 -
+     31715 206afc600 -
+     31723 20650f600 -
+     31735 2073c1600 -
+     31737 2087a5600 -
+     31742 20714f600 -
+     31744 206bd3600 -
+     31750 20a8e3600 -
+     31752 208637600 -
+     31754 208600600 -
+     31756 20a3b9600 -
+     31764 208eac600 -
+     31762 206715600 -
+     31773 2071b6600 -
+     31771 207347600 -
+     31777 206bb7600 -
+     31775 20706e600 -
+     31827 208e20600 -
+     31829 206418600 -
+     31831 20b14a600 -
+     31833 20ae57600 -
+     31838 2073d0600 -
+     31840 20664f600 -
+     31847 20a963600 -
+     31849 206b81600 -
+     31857 2084ea600 -
+     31859 206ad0600 -
+     31861 206ec4600 -
+     31863 2090a4600 -
+     31869 2068a9600 -
+     31871 208815600 -
+     31874 20aa27600 -
+     31876 207319600 -
+     31878 206542600 -
+     31880 20abb9600 -
+     31882 208989600 -
+     31884 20b17b600 -
+     31887 20b162600 -
+     31889 20b395600 -
+     31892 207076600 -
+     31894 20681a600 -
+     31897 20aaf5600 -
+     31899 206b87600 -
+     31902 209055600 -
+     31904 20a571600 -
+     31911 20b1ee600 -
+     31909 2068f5600 -
+     31916 20aa69600 -
+     31918 206db5600 -
+     31926 208ad8600 -
+     31928 20a784600 -
+     31957 20695a600 -
+     31952 206870600 -
+     31987 206fb8600 -
+     31989 20904b600 -
+     31998 20b20a600 -
+     32000 208722600 -
+     32008 206f1d600 -
+     32010 206513600 -
+     32020 206393600 -
+     32022 208dc1600 -
+     32024 2072d3600 -
+     32026 208907600 -
+     32031 208df3600 -
+     32033 20a5f7600 -
+     32037 20875b600 -
+     32035 208784600 -
+     32042 206564600 -
+     32044 208725600 -
+     32048 207318600 -
+     32046 2070fd600 -
+     32052 208355600 -
+     32054 20aa08600 -
+     32058 20af6a600 -
+     32060 208d16600 -
+     32065 20ab44600 -
+     32063 20a4cc600 -
+     32070 2071e8600 -
+     32068 2086cc600 -
+     32074 2069d4600 -
+     32072 20afc5600 -
+     32085 20b347600 -
+     32083 2065e2600 -
+     32087 20a580600 -
+     32089 20a84e600 -
+     32091 20aced600 -
+     32093 208a1c600 -
+     32096 20687e600 -
+     32098 208517600 -
+     32106 20a57a600 -
+     32104 208b4c600 -
+     32110 20b333600 -
+     32108 20677e600 -
+     32115 20b312600 -
+     32113 20729a600 -
+     32124 206e70600 -
+     32126 20acfa600 -
+     32128 20b0ec600 -
+     32130 206aee600 -
+     32132 207067600 -
+     32134 208be3600 -
+     32138 2068ed600 -
+     32140 2070d2600 -
+     32144 206764600 -
+     32142 20b17a600 -
+     32147 20b317600 -
+     32149 209354600 -
+     32153 208cbd600 -
+     32151 207027600 -
+     32160 2091d1600 -
+     32158 206999600 -
+     32165 20ad39600 -
+     32163 20a9f7600 -
+     32169 20ad6c600 -
+     32171 206288600 -
+     32180 209577600 -
+     32178 20b125600 -
 Cleaned out 124 stale readers
-mdb reader table full -> cleaning up stale readers. Current readers:
-    pid     thread     txnid
-     25631 206b5c600 -
-     25846 2062fc600 -
-     25667 208856600 -
-     25665 20ac51600 -
-     25695 20a51f600 -
-     25693 20b31a600 -
-     25703 2069da600 -
-     25701 206990600 -
-     25713 20853b600 -
-     25711 208fe6600 -
-     25719 20ac4e600 -
-     25721 20ac55600 -
-     25728 206933600 -
-     25726 208d23600 -
-     25730 206c6c600 -
-     25732 206fc9600 -
-     25736 20b380600 -
-     25734 206591600 -
-     25739 208e79600 -
-     25741 206614600 -
-     25747 208514600 -
-     25745 20a78a600 -
-     25749 208720600 -
-     25751 208f06600 -
-     25755 2065a1600 -
-     25753 208eeb600 -
-     25763 20ab45600 -
-     25765 206861600 -
-     25844 208638600 -
-     25869 20898a600 -
-     25867 2092f9600 -
-     25882 20833f600 -
-     25880 208da2600 -
-     25886 20ad50600 -
-     25884 2074d3600 -
-     25890 2062bb600 -
-     25892 20ab99600 -
-     25897 20a5f7600 -
-     25895 20a8c6600 -
-     25922 206a94600 -
-     25920 20a47c600 -
-     25950 2093ea600 -
-     25952 208ed8600 -
-     25977 20913f600 -
-     25979 206fcb600 -
-     26022 207225600 -
-     26024 20aeb9600 -
-     26071 20aa09600 -
-     26069 20918c600 -
-     26098 20675c600 -
-     26100 2092eb600 -
-     26110 2092fe600 -
-     26108 20900d600 -
-     26149 2088fe600 -
-     26147 2087b4600 -
-     26153 2065db600 -
-     26151 20a29c600 -
-     26157 208bb6600 -
-     26159 208eb9600 -
-     26168 206ed8600 -
-     26166 20b0b2600 -
-     26174 20af5b600 -
-     26176 20af06600 -
-     26198 2083d4600 -
-     26196 20aec8600 -
-     26219 20ab4f600 -
-     26217 2062d1600 -
-     26234 2069ca600 -
-     26236 208e3b600 -
-     26267 206824600 -
-     26269 20a3c7600 -
-     26282 208b8c600 -
-     26280 20a8b4600 -
-     26299 2069f1600 -
-     26297 206a81600 -
-     26316 206e97600 8398
-     26318 206631600 8398
-     26325 208616600 -
-     26323 2066b5600 -
-     26358 20ab37600 -
-     26360 2064bd600 -
-     26384 206fed600 -
-     26382 208cf3600 -
-     26390 20b3cb600 -
-     26392 20a5df600 -
-     26404 20aa39600 -
-     26406 208d7b600 -
-     26411 209454600 -
-     26409 20a6ad600 -
-     26415 20a635600 -
-     26413 2071e1600 -
-     26417 208cce600 -
-     26419 20aaeb600 -
-     26422 208c89600 -
-     26424 206798600 -
-     26428 206e43600 -
-     26426 208e0b600 -
-     26432 206c5e600 -
-     26430 20911d600 -
-     26438 208809600 -
-     26436 207381600 -
-     26440 206b25600 -
-     26442 2066f6600 -
-     26448 20859d600 -
-     26450 20a5a7600 -
-     26457 208fe1600 -
-     26455 20b50d600 -
-     26459 208a40600 -
-     26461 206920600 -
-     26480 209103600 -
-     26482 206ad6600 -
-     26485 2084c5600 -
-     26487 20a643600 -
-     26490 208ee0600 -
-     26492 208970600 -
-     26496 208dbe600 -
-     26498 207017600 -
-     26502 208c44600 -
-     26504 208fc6600 -
-     26509 20888b600 -
-     26511 2093fe600 -
-     26521 2064c9600 -
-     26523 20a698600 -
-     26529 208e80600 -
-     26527 2072b8600 -
-     26537 208d01600 8448
-Cleaned out 124 stale readers
-Refreshing native plugins compatible for Editor in 471.46 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 448.14 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.8f1 (b30333d56e81)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -327,46 +198,46 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56539
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56188
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002756 seconds.
+Registered in 0.002536 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 88.17 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 90.29 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.238 seconds
+- Completed reload, in  1.271 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1239ms)
-		BeginReloadAssembly (135ms)
+	ReloadAssembly (1272ms)
+		BeginReloadAssembly (145ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (2ms)
-		EndReloadAssembly (917ms)
-			LoadAssemblies (135ms)
+		EndReloadAssembly (937ms)
+			LoadAssemblies (144ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (87ms)
+			SetupTypeCache (89ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (27ms)
-			SetupLoadedEditorAssemblies (675ms)
+			SetupLoadedEditorAssemblies (693ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (21ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (88ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (416ms)
-				ProcessInitializeOnLoadMethodAttributes (146ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (90ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (426ms)
+				ProcessInitializeOnLoadMethodAttributes (152ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.287448 seconds.
+Registered in 0.317987 seconds.
