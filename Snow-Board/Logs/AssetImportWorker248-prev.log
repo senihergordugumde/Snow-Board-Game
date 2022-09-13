@@ -22,7 +22,7 @@ AssetImportWorker248
 -logFile
 Logs/AssetImportWorker248.log
 -srvPort
-52767
+54816
 Successfully changed project path to: /Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board
 /Volumes/X-FILES/GitHub/Snow-Board-Game/Snow-Board
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -54,7 +54,136 @@ Successfully changed project path to: /Volumes/X-FILES/GitHub/Snow-Board-Game/Sn
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 430.30 ms, found 3 plugins.
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     31650 20aaf4600 -
+     32186 20a718600 -
+     32192 206f1d600 -
+     32190 208fab600 -
+     32196 206fc1600 -
+     32194 2086ec600 -
+     32202 20aa84600 -
+     32200 20a641600 -
+     32204 20b127600 -
+     32206 20b26c600 -
+     32210 206688600 -
+     32208 206e99600 -
+     32217 206d3e600 -
+     32215 20ab10600 -
+     32220 206c2c600 -
+     32222 20a43e600 -
+     32225 20a27f600 -
+     32227 2089bc600 -
+     32231 20b182600 -
+     32229 206333600 -
+     32235 207330600 -
+     32233 20b030600 -
+     32241 2061e5600 -
+     32239 20b170600 -
+     32245 208b2d600 -
+     32243 206cda600 -
+     32249 206b2b600 -
+     32247 20698e600 -
+     32253 206ca7600 -
+     32251 20892f600 -
+     32256 20a99d600 -
+     32258 20ae8f600 -
+     32262 208b2c600 -
+     32260 20a482600 -
+     32264 2070d7600 -
+     32266 20ab0c600 -
+     32270 208e44600 -
+     32268 206a42600 -
+     32296 2085bb600 -
+     32298 20707b600 -
+     32322 20a873600 -
+     32320 206dc8600 -
+     32328 208985600 -
+     32326 20af89600 -
+     32332 2062b7600 -
+     32330 206312600 -
+     32334 208963600 -
+     32336 206840600 -
+     32338 206410600 -
+     32340 2085b7600 -
+     32364 20b1be600 -
+     32362 2084f1600 -
+     32369 20af6b600 -
+     32367 20ac9d600 -
+     32374 208798600 -
+     32372 20a8f2600 -
+     32378 206a7f600 -
+     32376 2085e4600 -
+     32389 208ae7600 -
+     32391 20abe9600 -
+     32401 208641600 -
+     32399 20679f600 -
+     32413 20b0b9600 -
+     32411 208ef3600 -
+     32437 208d2f600 -
+     32435 2089cb600 -
+     32476 208733600 -
+     32478 2086c5600 -
+     32484 20881d600 -
+     32482 20704d600 -
+     32494 20a96a600 -
+     32496 2068c1600 -
+     32504 20b0d3600 -
+     32502 208c4e600 -
+     32511 20aaa0600 -
+     32513 20a965600 -
+     32523 20ab29600 -
+     32521 20b430600 -
+     32525 2066cb600 9044
+     32527 20b3d9600 -
+     32531 2092ca600 -
+     32529 2068c5600 -
+     32534 206b37600 -
+     32536 2088ca600 -
+     32540 207042600 -
+     32542 2092e8600 -
+     32544 207312600 -
+     32546 20a2a0600 -
+     32549 20a79b600 -
+     32551 206922600 -
+     32555 206ce2600 -
+     32553 20aa78600 -
+     32559 206ecf600 -
+     32561 20ac21600 -
+     32563 20880b600 -
+     32565 2068ef600 -
+     32569 20a90e600 -
+     32571 2073d8600 -
+     32575 208e42600 -
+     32573 208e09600 -
+     32580 206c8b600 -
+     32578 2073a8600 -
+     32583 206675600 -
+     32585 2065c3600 -
+     32587 20721e600 -
+     32589 208faa600 -
+     32596 2093c1600 -
+     32594 206bfe600 -
+     32603 20afb6600 -
+     32601 20ab39600 -
+     32614 2067a8600 -
+     32612 206875600 -
+     32655 20b30f600 9078
+     32661 2070e2600 -
+     32737 206924600 -
+     32735 2084bb600 -
+     32744 208943600 -
+     32742 209037600 -
+     32758 2069a4600 -
+     32756 206df8600 -
+     32767 20a9d5600 -
+     32769 20b27e600 -
+     32787 2092a7600 -
+     32789 20a8c2600 -
+     32796 208b11600 9090
+     32188 206ff0600 -
+Cleaned out 124 stale readers
+Refreshing native plugins compatible for Editor in 375.77 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.8f1 (b30333d56e81)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -69,46 +198,46 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56993
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56794
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000542 seconds.
+Registered in 0.001680 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 88.16 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 92.59 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.263 seconds
+- Completed reload, in  1.368 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1263ms)
-		BeginReloadAssembly (138ms)
+	ReloadAssembly (1369ms)
+		BeginReloadAssembly (150ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (2ms)
-		EndReloadAssembly (938ms)
-			LoadAssemblies (137ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (1014ms)
+			LoadAssemblies (149ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (86ms)
+			SetupTypeCache (107ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (26ms)
-			SetupLoadedEditorAssemblies (696ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (743ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (23ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (88ms)
+				RefreshPlugins (93ms)
 				BeforeProcessingInitializeOnLoad (3ms)
-				ProcessInitializeOnLoadAttributes (429ms)
-				ProcessInitializeOnLoadMethodAttributes (152ms)
+				ProcessInitializeOnLoadAttributes (456ms)
+				ProcessInitializeOnLoadMethodAttributes (168ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.330220 seconds.
+Registered in 0.252223 seconds.
