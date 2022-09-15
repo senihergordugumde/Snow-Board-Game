@@ -1,13 +1,8 @@
 ﻿<Properties StartupConfiguration="{8D65983E-235A-7588-08E7-CB3A7C20CEA6}|">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2dfd34b1-e6e6-4f38-bc3c-28fffcd60970" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FinishLine.cs">
     <Files>
-      <File FileName="Assets/PlayerController.cs" Line="29" Column="1" />
+      <File FileName="Assets/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/FinishLine.cs" Line="14" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,5 +20,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c3d0843d-fe61-4d94-b0ac-0be7b8ff9220" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
