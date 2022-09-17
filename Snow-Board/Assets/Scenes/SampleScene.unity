@@ -5093,7 +5093,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 928273029}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -5243,7 +5243,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1095001167}
   serializedVersion: 8
-  lengthInSec: 1
+  lengthInSec: 2.11
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
