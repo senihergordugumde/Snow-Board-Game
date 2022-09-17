@@ -3,14 +3,34 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 public class Collision : MonoBehaviour
-{
-     
+{   
+
+    [SerializeField] float magicnumber = 1f;
+    [SerializeField] ParticleSystem particle2;
+
+   
+   
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.tag == "Ground")
+        if (other.tag == "head")
         {
-            SceneManager.LoadScene(0);
-            Debug.Log("Öldün");
+           Invoke("Reload",magicnumber);
         } 
+     
+        if (other.tag == "Player")
+        {
+            particle2.Play();
+        }
+
+    }
+        
+       
+
+   
+
+    void Reload()
+    {
+        SceneManager.LoadScene(0);
+
     }
 }
