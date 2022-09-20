@@ -8,6 +8,7 @@ public class Collision : MonoBehaviour
     [SerializeField] float magicnumber = 1f;
     [SerializeField] ParticleSystem particle2;
 
+    
    
    
     void OnTriggerEnter2D(Collider2D other)
@@ -15,6 +16,7 @@ public class Collision : MonoBehaviour
         if (other.tag == "head")
         {
            Invoke("Reload",magicnumber);
+           FindObjectOfType<PlayerController>().DisableControl();
         } 
      
         if (other.tag == "Player")

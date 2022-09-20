@@ -9,6 +9,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float baseSpeed = 6.25f;
     Rigidbody2D rb2d;
     SurfaceEffector2D surfaceEffector;
+
+    bool isControl = true;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,13 +20,22 @@ public class PlayerController : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
-        control();
+    {   
+        if (isControl == true)
+        {
+             control();
+        }
     }
 
-
+    public void DisableControl()
+    {
+        isControl = false;
+    }
     void control()
     {
+
+        
+    
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             rb2d.AddTorque(torqueAmount);
@@ -44,5 +55,7 @@ public class PlayerController : MonoBehaviour
         {
             surfaceEffector.speed = baseSpeed;
         }
+        
+        
     }
 }
