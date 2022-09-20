@@ -23,7 +23,10 @@ public class Collision : MonoBehaviour
         }
 
     }
-        
+    void OnCollisionExit2D(Collision2D other)
+    {
+        particle2.Stop();
+    }
        
 
    
